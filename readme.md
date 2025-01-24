@@ -53,7 +53,7 @@ The following architecture diagram illustrates the flow and relationship between
    Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-repo/club-class-booking.git
+   git clone https://github.com/krutikanagar/ClubManagerApplication.git
 
 2. **Import the Project into IntelliJ IDEA**:
 - Open **IntelliJ IDEA**.
