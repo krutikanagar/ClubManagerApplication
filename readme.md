@@ -229,6 +229,7 @@ To run the tests:
 
 ## Future Improvements
 
+- **Enhance Functionality**: Add modify/delete feature for classes/bookings, enhance search on complex patterns
 - **Database Integration**: Integrate with a relational database (e.g., MySQL or PostgreSQL) for data persistence.
 - **Authentication and Authorization**: Implement user authentication and authorization for accessing the APIs.
 - **Pagination and Sorting**: Add support for pagination and sorting in the search bookings API to handle large datasets.
