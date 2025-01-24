@@ -88,7 +88,7 @@ Alternatively, you can use the **Gradle tool window** in IntelliJ to run the bui
 ### 1. **Create a Class** (`POST /api/classes`)
 
 - **Description**: Create a class with the given details (e.g., name, start date, end date, start time, duration, capacity).
-- ** Sample Request:
+- **Sample Request**:
 `  curl -X POST http://localhost:8080/api/classes/create \
  -H "Content-Type: application/json" \
  -d '{
